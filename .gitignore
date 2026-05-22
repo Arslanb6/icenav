@@ -3,6 +3,7 @@
 output/
 \.*.pkl
 *.lprof
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
