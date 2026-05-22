@@ -14,7 +14,6 @@ packcircles==0.14
 pandas==1.5.3
 pickleshare==0.7.5
 pillow==10.2.0
-pip==23.3.1
 ptyprocess==0.7.0
 pymunk==6.7.0
 pyparsing==3.0.9
